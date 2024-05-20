@@ -1,4 +1,4 @@
-![MasterHead!](Linkdein Banner.png)
+![MasterHead!](Linkdein-Banner.png)
 <h1 align="center">Hi 👋, I'm Rahul Bansal</h1>
 <h3 align="center">I'm a Passionate Full Stack Developer who loves to create innovative solutions with code, with expertise in ReactJs NextJs, and JavaScript, and a strong foundation in Data Structures and Algorithms.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
