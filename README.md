@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahull004&label=Profile%20views&color=0e75b6&style=flat" alt="rahull004" /> </p>
 
-- 🌱 I’m currently learning **CyberSecurity**
+- 🌱 I’m currently exploring **CyberSecurity**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
