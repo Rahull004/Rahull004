@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently exploring **Microservices, Kafka event streams, and High-Scale System Design**
 
-- 👯 I’m looking to collaborate on **Backend Architecture & Open Source Projects**
-
 - 💬 Ask me about **Go (Golang), Node.js, Docker, and API Security**
 
 - 📫 How to reach me: **rahulbansal24072004@gmail.com**
