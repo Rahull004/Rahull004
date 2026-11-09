@@ -1,56 +1,98 @@
-![MasterHead!](Linkdein-Banner.png)
-<h1 align="center">Hi 👋, I'm Rahul Bansal</h1>
-<h3 align="center">I'm a Software Engineer specializing in distributed systems, API infrastructure, and open-source development. Ex-Razorpay & OSGeo (GSoC '25). Actively seeking full-time SDE roles!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:4c1d95&height=200&section=header&text=Rahul%20Bansal&fontSize=58&fontColor=e6edf3&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Open%20Source&descAlignY=58&descSize=17&animation=fadeIn" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahull004&label=Profile%20views&color=0e75b6&style=flat" alt="rahull004" /> </p>
-
-- 🌱 I’m currently exploring **Microservices, Kafka event streams, and High-Scale System Design**
-
-- 💬 Ask me about **Go (Golang), Node.js, Docker, and API Security**
-
-- 📫 How to reach me: **rahulbansal24072004@gmail.com**
-
-- ⚡ Fun fact: **"I appreciate people who share a passion for chess with me."**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rahul-bansal-57abb7256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-bansal-57abb7256" height="30" width="40" /></a>
-<a href="https://instagram.com/_.rahul_bansal._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.rahul_bansal._" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rahull004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rahull004" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rahull004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahull004" height="30" width="40" /></a>
-<a href="https://discord.gg/rahulbansal." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rahulbansal." height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=SWE+Intern+%40+Headout;Previously+%40+Razorpay;Google+Summer+of+Code+'25+%40+OSGeo;Building+systems+that+scale;Always+up+for+a+game+of+chess" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://portfolio-liart-eight-37.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=8b5cf6" /></a>
+  <a href="https://linkedin.com/in/rahul-bansal-57abb7256"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=8b5cf6" /></a>
+  <a href="mailto:rahulbansal24072004@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=8b5cf6" /></a>
+  <a href="https://leetcode.com/rahull004"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=8b5cf6" /></a>
+  <a href="https://www.codechef.com/users/rahull004"><img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=8b5cf6" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahull004&show_icons=true&locale=en&layout=compact" alt="rahull004" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rahull004&label=VISITORS&color=4c1d95&style=for-the-badge&labelColor=0d1117" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahull004&show_icons=true&locale=en" alt="rahull004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahull004&" alt="rahull004" /></p>
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Briefcase/3D/briefcase_3d.png" width="30" /> &nbsp;Experience
+
+<table>
+<tr>
+<td align="center" width="33%">
+<br/>
+<a href="https://www.headout.com"><img src="https://github.com/headout.png?size=200" width="64" /></a>
+<h3>Headout</h3>
+<img src="https://img.shields.io/badge/CURRENT-8b5cf6?style=flat-square&labelColor=0d1117" />
+<br/><br/>
+<sub><b>Software Engineering Intern</b></sub>
+<br/>
+<sub>Building internal tools and workflows across the stack</sub>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<a href="https://razorpay.com"><img src="https://github.com/razorpay.png?size=200" width="64" /></a>
+<h3>Razorpay</h3>
+<img src="https://img.shields.io/badge/PREVIOUS-6366f1?style=flat-square&labelColor=0d1117" />
+<br/><br/>
+<sub><b>Software Engineering</b></sub>
+<br/>
+<sub>Worked on payment infrastructure and APIs</sub>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<a href="https://www.osgeo.org"><img src="https://github.com/OSGeo.png?size=200" width="64" /></a>
+<h3>OSGeo · GSoC '25</h3>
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-059669?style=flat-square&labelColor=0d1117" />
+<br/><br/>
+<sub><b>Contributor</b></sub>
+<br/>
+<sub>Cut istSOS4 deployment setup time by <b>95%</b></sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Hammer%20and%20wrench/3D/hammer_and_wrench_3d.png" width="30" /> &nbsp;Tech Stack
+
+<p align="center">
+  <b>Languages</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,go,py,java,cpp,c&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Backend & Frontend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,kafka,react,nextjs,redux,tailwind,electron&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Databases & DevOps</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,docker,kubernetes,linux,git,postman&theme=dark" />
+</p>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/3D/bar_chart_3d.png" width="30" /> &nbsp;GitHub Analytics
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahull004&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rahull004&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rahull004&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rahull004&hide_border=true&background=0d1117&stroke=30363d&ring=8b5cf6&fire=8b5cf6&currStreakNum=e6edf3&currStreakLabel=8b5cf6&sideNums=e6edf3&sideLabels=8b949e&dates=6e7681" />
+</p>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:0d1117,100:000000&height=120&section=footer" />
