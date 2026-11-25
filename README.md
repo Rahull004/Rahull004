@@ -9,7 +9,6 @@
   <a href="https://linkedin.com/in/rahul-bansal-57abb7256"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=8b5cf6" /></a>
   <a href="mailto:rahulbansal24072004@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=8b5cf6" /></a>
   <a href="https://leetcode.com/rahull004"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=8b5cf6" /></a>
-  <a href="https://www.codechef.com/users/rahull004"><img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=8b5cf6" /></a>
 </p>
 
 <p align="center">
